@@ -22,8 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# auction-ledger
-# repo-a
-# repo-a
-# repo-a
 # feed
