@@ -23,3 +23,8 @@ Things you may want to cover:
 
 * ...
 # feed
+#host-app-aws
+#goto opswork -> boot new stack
+	-> create database
+	-> create app
+	-> create customised layers (rails app, utility) and boot instances
